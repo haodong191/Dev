@@ -31,7 +31,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/jumbotron.jpg');
+  background-image: url('https://media.gadventures.com/media-server/cache/8f/30/8f306d1fcdfec2b2ba7b1e5b64efda73.jpg');
   background-size: cover;
   color: #ffffff;
   height: 500px;
